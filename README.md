@@ -3,4 +3,3 @@ welcome to my coding journey! this repository is designed to learn and teach the
 
 #names 
 kamran
-adeem
